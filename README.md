@@ -1,0 +1,4 @@
+⚙️ Technology:
+
+- WebRTC
+- Socket.io
