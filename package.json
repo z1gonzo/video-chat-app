@@ -1,0 +1,29 @@
+{
+  "name": "video-chat-app",
+  "version": "1.0.0",
+  "description": "⚙️ Technology:",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z1gonzo/video-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z1gonzo/video-chat-app/issues"
+  },
+  "homepage": "https://github.com/z1gonzo/video-chat-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
