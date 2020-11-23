@@ -3,7 +3,7 @@
 - WebRTC (with peerjs server)
 - Socket.io
 
-### To run the application you need to install peerjs globally
+### To run the application you need to install [peerjs](https://peerjs.com/) globally
 
 - npm i -g peerjs
 - peerjs --port 3001 (to make server on port 3001)
