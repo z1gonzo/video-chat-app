@@ -1,7 +1,7 @@
 ⚙️ Technology:
 
-- WebRTC (with peerjs server)
-- Socket.io
+- [WebRTC](https://webrtc.org/) (with peerjs server)
+- [Socket.io](https://socket.io/)
 
 ### To run the application you need to install [peerjs](https://peerjs.com/) globally
 
